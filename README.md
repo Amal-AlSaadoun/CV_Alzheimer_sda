@@ -16,9 +16,8 @@ Ultralytics YOLO framework:
 
 >**This project was completed as the capstone for the "Computer Vision for
 Developers with Ultralytics" training program, delivered by SDAIA
-Academye.** 
-
-# Training program: SDAIA Academy — Computer Vision for Developers (link: https://github.com/SDAIAAcademy)
+Academye.
+SDAIA Academy — Computer Vision for Developers (link: https://github.com/SDAIAAcademy)** 
 
 # 🎬 Video Analytics Demo
 
