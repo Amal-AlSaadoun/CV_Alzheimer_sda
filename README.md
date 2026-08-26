@@ -18,9 +18,7 @@ This project was completed as the capstone for the "Computer Vision for
 Developers with Ultralytics" training program, delivered by SDAIA
 Academye.
 
-Training program: SDAIA Academy — Computer Vision for Developers (link: https://github.com/SDAIAAcademy)
-
-#The API Key is hidden for security, if you need it, contact me.
+#Training program: SDAIA Academy — Computer Vision for Developers (link: https://github.com/SDAIAAcademy)
 
 # 🎬 Video Analytics Demo
 
