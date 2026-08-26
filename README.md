@@ -14,9 +14,9 @@ Ultralytics YOLO framework:
    pipeline that tracks people in a defined region of interest in
    real time and raises an alert when occupancy exceeds a threshold.
 
-This project was completed as the capstone for the "Computer Vision for
+>**This project was completed as the capstone for the "Computer Vision for
 Developers with Ultralytics" training program, delivered by SDAIA
-Academye.
+Academye.** 
 
 # Training program: SDAIA Academy — Computer Vision for Developers (link: https://github.com/SDAIAAcademy)
 
